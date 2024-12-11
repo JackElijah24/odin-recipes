@@ -1,14 +1,34 @@
 *{
-    font-family:'Times New Roman', Times, serif
-}
-.text {
-    color: red;
-
-}
-.header{
-    color: green;
-
-}
-.class .text {
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    text-align: center;
     
+}
+
+.header{
+    color: navy;
+    background: yellow;
+    width: 400px;
+    margin: 0 auto;
+    border:5px solid orange;
+    padding: 16px;
+    width:400px;
+    display: block;
+
+}
+
+.text {
+    color: blue;
+    
+    
+
+}
+
+.bullets {
+    background: yellow;
+    border:5px solid orange;
+    padding: 16px 32px;
+    width: 400px;
+    margin: 0 auto;
+
 }
